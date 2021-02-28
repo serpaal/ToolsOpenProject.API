@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ToolsOpenProject.Domain\ToolsOpenProject.Domain.csproj" />
+    <ProjectReference Include="..\ToolsOpenProject.Infrastructure\ToolsOpenProject.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>

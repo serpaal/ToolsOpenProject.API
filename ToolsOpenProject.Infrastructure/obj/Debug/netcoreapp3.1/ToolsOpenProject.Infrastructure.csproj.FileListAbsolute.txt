@@ -1,0 +1,15 @@
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.deps.json
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.runtimeconfig.json
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.runtimeconfig.dev.json
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.dll
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.pdb
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.csprojAssemblyReference.cache
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.AssemblyInfoInputs.cache
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.AssemblyInfo.cs
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.dll
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.pdb
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.genruntimeconfig.cache
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Domain.dll
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\bin\Debug\netcoreapp3.1\ToolsOpenProject.Domain.pdb
+D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Infrastructure\obj\Debug\netcoreapp3.1\ToolsOpenProject.Infrastructure.csproj.CopyComplete
