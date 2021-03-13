@@ -11,6 +11,7 @@ namespace ToolsOpenProject.Infrastructure
     {
         public const string DEFAULT_SCHEMA = "public";
         public DbSet<MesaAyudaOpenProject> MesaAyudaOpenProjects { get; set; }
+        public DbSet<RequerimientosMesaAyudaOpenProject> RequerimientosMesaAyudaOpenProjects { get; set; }
 
         public ToolsMesaAyudaContext(DbContextOptions<ToolsMesaAyudaContext> options)
             : base(options)
@@ -20,6 +21,7 @@ namespace ToolsOpenProject.Infrastructure
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new MesaAyudaOpenProjectEntitySchemaDefinition());
+            modelBuilder.ApplyConfiguration(new RequerimientosMesaAyudaOpenProjectEntitySchemaDefinition());
             base.OnModelCreating(modelBuilder);
         }
 

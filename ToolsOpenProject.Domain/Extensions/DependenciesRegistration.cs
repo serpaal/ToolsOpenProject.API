@@ -18,6 +18,7 @@ namespace ToolsOpenProject.Domain.Extensions
         public static IServiceCollection AddServices(this IServiceCollection services)
         {
             services
+                .AddScoped<IRequerimientosMesaAyudaOpenProjectService, RequerimientosMesaAyudaOpenProjectService>()
                 .AddScoped<IMesaAyudaOpenProjectService, MesaAyudaOpenProjectService>();
            
             return services;
