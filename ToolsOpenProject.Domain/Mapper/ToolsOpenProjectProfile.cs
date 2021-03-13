@@ -9,6 +9,7 @@ namespace ToolsOpenProject.Domain.Mapper
         public ToolsOpenProjectProfile()
         {
             CreateMap<MesaAyudaOpenProject, MesaAyudaOpenProjectResponse>();
+            CreateMap<RequerimientosMesaAyudaOpenProject, RequerimientosMesaAyudaOpenProjectResponse>();
         }
     }
 }

@@ -6,3 +6,12 @@ D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Domain\bin\Debug\netcoreapp
 D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Domain\bin\Debug\netcoreapp3.1\ToolsOpenProject.Domain.pdb
 D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.dll
 D:\projets\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.pdb
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\bin\Debug\netcoreapp3.1\ToolsOpenProject.Domain.deps.json
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\bin\Debug\netcoreapp3.1\ToolsOpenProject.Domain.dll
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\bin\Debug\netcoreapp3.1\ToolsOpenProject.Domain.pdb
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.csprojAssemblyReference.cache
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.AssemblyInfoInputs.cache
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.AssemblyInfo.cs
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.csproj.CoreCompileInputs.cache
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.dll
+D:\projects\net\ToolsOpenProject.API\ToolsOpenProject.Domain\obj\Debug\netcoreapp3.1\ToolsOpenProject.Domain.pdb

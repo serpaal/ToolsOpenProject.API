@@ -25,8 +25,15 @@ namespace ToolsOpenProject.API
             services
              .AddToolsMesaAyudaContext(Configuration.GetSection("DataSource:ConnectionString").Value)
              .AddScoped<IMesaAyudaOpenProjectRepository, MesaAyudaOpenProjectRepository>()
+             .AddScoped<IRequerimientosMesaAyudaOpenProjectRepository, RequerimientosMesaAyudaOpenProjectRepository>()
              .AddMappers()
              .AddServices()
+             .AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+             {
+                    builder.WithOrigins("http://localhost:4200")
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+             }))
              .AddControllers();
         }
 
@@ -38,9 +45,11 @@ namespace ToolsOpenProject.API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
+            
+            app.UseCors("ApiCorsPolicy");
 
             app.UseAuthorization();
 
